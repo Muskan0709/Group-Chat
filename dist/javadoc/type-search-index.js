@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"utility","l":"GenerateID"},{"p":"utility","l":"Group"},{"p":"UI","l":"Groups"},{"p":"UI","l":"Login"},{"p":"UI","l":"Messages"},{"p":"utility","l":"Server"},{"p":"UI","l":"SignUP"},{"p":"Auth","l":"User"}];updateSearchResults();
